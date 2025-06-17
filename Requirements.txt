@@ -1,8 +1,10 @@
 streamlit
 python-dotenv
 langchain
-langchain-groq
 groq
 python-docx
 docx2txt
 PyPDF2
+
+# Install langchain-groq directly from GitHub
+git+https://github.com/langchain-ai/langchain-groq.git
